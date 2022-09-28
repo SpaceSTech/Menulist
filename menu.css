@@ -9,7 +9,7 @@ h2 {
 }
 
 body {
-  background-image: url(/images/nature.jpg);
+  background-image: url(./nature.jpg);
   font-family: sans-serif;
 }
 .menu {
